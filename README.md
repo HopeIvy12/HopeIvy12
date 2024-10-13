@@ -1,3 +1,7 @@
+<img src="https://new.express.adobe.com/publishedV2/urn:aaid:sc:EU:4485171f-3426-4725-be9a-44fd50a66d69?promoid=Y69SGM5H&mv=other&category=search" alt="A description of the image">
+
+
+
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://new.express.adobe.com/publishedV2/urn:aaid:sc:EU:4485171f-3426-4725-be9a-44fd50a66d69?promoid=Y69SGM5H&mv=other">
