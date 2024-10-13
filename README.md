@@ -7,7 +7,7 @@
 <main>
 <img src="https://github.com/HopeIvy12/HopeIvy12/blob/e96eb505d5f73e2c1006bca215a4c17b372cf33e/Untitled.png" alt="Hello, I'm Hope! Welcome to my Github!" width="1300" height="400">
 
-<h2>Hello, My name is Hope, I'm currently studying to become a Software Developer via the school of code!</h2>
+<h2>Hello, My name is Hope! I'm currently studying to become a Software Developer via the School Of Code!</h2>
 
 ## 🏆 Accomplishments & Certifications:
 Code First Girls courses completed:
@@ -17,9 +17,9 @@ Code First Girls courses completed:
   <li>💿CK: Introduction to JavaScript</li>
   <li>💿CK: Introduction to Data & SQL</li>
 </ul>
-(I previously worked in the Social Care section mainly specializing in supporting people with challenging behaviour.)
+(I previously worked in the Social Care sector mainly specializing in supporting people with challenging behaviour.)
 <ul>
-  <li>📖Special Educational Needs, Disabilities and Inclusion BA From The University of Northampton.</li>
+<li>📖Special Educational Needs, Disabilities and Inclusion Degree(BA) From The University of Northampton.</li>
 <li>📖Childcare and Education Diploma (Level 3)</li>
 </ul>
 <a href="mailto:hopeivy@hotmail.co.uk" target="_blank">
