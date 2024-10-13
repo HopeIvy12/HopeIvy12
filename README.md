@@ -12,8 +12,10 @@ Code First Girls courses completed:
 📖Special Educational Needs, Disabilities and Inclusion BA From The University of Northampton.
 📖Childcare and Education Diploma (Level 3)
 
-<a href="mailto:hopeivy@hotmail.co.uk"><img src= "https://github.com/HopeIvy12/HopeIvy12/blob/e129c46b0552da0efc254a33a16b44599f3f278d/Untitled%20(1).png" width="1200" height="130"></a>
+<a href="mailto:hopeivy@hotmail.co.uk"><img src= "https://github.com/HopeIvy12/HopeIvy12/blob/644213ac8262b8cdb419721dea0dee4a2067b8a5/email.png"></a>
+<a href="www.linkedin.com/in/hope-pichur-a22942332"><img src="https://github.com/HopeIvy12/HopeIvy12/blob/644213ac8262b8cdb419721dea0dee4a2067b8a5/linkedin.png"></a>
 
+width="1200" height="130"
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
