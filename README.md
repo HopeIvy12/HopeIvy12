@@ -7,7 +7,7 @@
 <main>
 <img src="https://github.com/HopeIvy12/HopeIvy12/blob/e96eb505d5f73e2c1006bca215a4c17b372cf33e/Untitled.png" alt="Hello, I'm Hope! Welcome to my Github!" width="1300" height="400">
 
-<h1>Hello, My name is Hope, I'm currently studying to become a Software Developer via the school of code!</h1>
+<h2>Hello, My name is Hope, I'm currently studying to become a Software Developer via the school of code!</h2>
 
 ## 🏆 Accomplishments & Certifications:
 Code First Girls courses completed:
@@ -29,5 +29,19 @@ Code First Girls courses completed:
 <a href="https://www.linkedin.com/in/hope-pichur-a22942332" target="_blank">
   <img src="https://github.com/HopeIvy12/HopeIvy12/blob/644213ac8262b8cdb419721dea0dee4a2067b8a5/linkedin.png?raw=true" width="300" height="130" alt="LinkedIn Profile">
 </a>
+<table>
+  <tr>
+    <td>
+      <a href="mailto:hopeivy@hotmail.co.uk" target="_blank">
+        <img src="https://github.com/HopeIvy12/HopeIvy12/blob/644213ac8262b8cdb419721dea0dee4a2067b8a5/email.png?raw=true" width="300" height="130" alt="Email me">
+      </a>
+    </td>
+    <td style="padding-left: 20px;"> 
+      <a href="https://www.linkedin.com/in/hope-pichur-a22942332" target="_blank">
+        <img src="https://github.com/HopeIvy12/HopeIvy12/blob/644213ac8262b8cdb419721dea0dee4a2067b8a5/linkedin.png?raw=true" width="300" height="130" alt="LinkedIn Profile">
+      </a>
+    </td>
+  </tr>
+</table>
 </main>
 </html>
