@@ -1,16 +1,16 @@
-<img src="https://github.com/HopeIvy12/HopeIvy12/blob/e96eb505d5f73e2c1006bca215a4c17b372cf33e/Untitled.png" alt="A description of the image">
+<img src="https://github.com/HopeIvy12/HopeIvy12/blob/e96eb505d5f73e2c1006bca215a4c17b372cf33e/Untitled.png" alt="Hello, I'm Hope! Welcome to my Github!">
 
+Hello, My name is Hope, I'm currently studying to become a Software Developer via the school of code!
 
-
-
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://new.express.adobe.com/publishedV2/urn:aaid:sc:EU:4485171f-3426-4725-be9a-44fd50a66d69?promoid=Y69SGM5H&mv=other">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
-</picture>
-
-Hello, My name is Hope, I'm currently learning via the School of code!
-
+## 🏆 Accomplishments & Certifications:
+Code First Girls courses completed:
+💿Intro to Web Dev MOOC Sprint 
+💿CK: Introduction to Web Development 
+💿CK: Introduction to JavaScript
+💿CK: Introduction to Data & SQL
+(I previously worked in the Social Care section mainly specializing in supporting people with challenging behaviour.)
+📖Special Educational Needs, Disabilities and Inclusion BA From The University of Northampton.
+📖Childcare and Education Diploma (Level 3)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
