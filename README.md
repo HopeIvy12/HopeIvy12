@@ -1,4 +1,4 @@
-<img src="https://new.express.adobe.com/publishedV2/urn:aaid:sc:EU:4485171f-3426-4725-be9a-44fd50a66d69?promoid=Y69SGM5H&mv=other" alt="A description of the image">
+<img src="https://new.express.adobe.com/id/urn:aaid:sc:EU:84dbd04a-23b2-5488-aeb6-6033259c809e?invite=true&promoid=Z2G1FQKR&mv=other" alt="A description of the image">
 
 
 
