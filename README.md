@@ -1,13 +1,12 @@
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
+ <source media="(prefers-color-scheme: dark)" srcset="https://new.express.adobe.com/publishedV2/urn:aaid:sc:EU:4485171f-3426-4725-be9a-44fd50a66d69?promoid=Y69SGM5H&mv=other">
  <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
  <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
 </picture>
 
-<--**HopeIvy12/HopeIvy12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, My name is Hope, I'm currently learning via the School of code!
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
