@@ -1,4 +1,4 @@
-<img src="https://github.com/HopeIvy12/HopeIvy12/blob/e96eb505d5f73e2c1006bca215a4c17b372cf33e/Untitled.png" alt="Hello, I'm Hope! Welcome to my Github!">
+<img src="https://github.com/HopeIvy12/HopeIvy12/blob/e96eb505d5f73e2c1006bca215a4c17b372cf33e/Untitled.png" alt="Hello, I'm Hope! Welcome to my Github!" width="2000" height="1200">
 
 Hello, My name is Hope, I'm currently studying to become a Software Developer via the school of code!
 
