@@ -12,7 +12,7 @@ Code First Girls courses completed:
 📖Special Educational Needs, Disabilities and Inclusion BA From The University of Northampton.
 📖Childcare and Education Diploma (Level 3)
 
-<img src= "https://github.com/HopeIvy12/HopeIvy12/blob/8876025284c62ff94a1a0f820677ba826e3a6258/Untitled%20(1).png" width="1200" height="100">
+<img src= "https://github.com/HopeIvy12/HopeIvy12/blob/8876025284c62ff94a1a0f820677ba826e3a6258/Untitled%20(1).png" width="1200" height="150">
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
