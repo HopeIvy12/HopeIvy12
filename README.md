@@ -23,9 +23,8 @@ Code First Girls courses completed:
 <li>📖Childcare and Education Diploma (Level 3)</li>
 </ul>
 
-
 <a href="mailto:hopeivy@hotmail.co.uk" target="_blank">
-  <img src="https://github.com/HopeIvy12/HopeIvy12/blob/644213ac8262b8cdb419721dea0dee4a2067b8a5/email.png?raw=true" width="300" height="130"  alt="Email me" style="margin-right: 20px;">
+  <img src="https://github.com/HopeIvy12/HopeIvy12/blob/644213ac8262b8cdb419721dea0dee4a2067b8a5/email.png?raw=true" width="300" height="130"  alt="Email me" style="margin-right: 20%;">
 </a>
 <a href="https://www.linkedin.com/in/hope-pichur-a22942332" target="_blank">
   <img src="https://github.com/HopeIvy12/HopeIvy12/blob/644213ac8262b8cdb419721dea0dee4a2067b8a5/linkedin.png?raw=true" width="300" height="130" alt="LinkedIn Profile">
