@@ -1,4 +1,4 @@
-<img src="https://github.com/HopeIvy12/HopeIvy12/blob/e96eb505d5f73e2c1006bca215a4c17b372cf33e/Untitled.png" alt="Hello, I'm Hope! Welcome to my Github!" width="1300" height="500">
+<img src="https://github.com/HopeIvy12/HopeIvy12/blob/e96eb505d5f73e2c1006bca215a4c17b372cf33e/Untitled.png" alt="Hello, I'm Hope! Welcome to my Github!" width="1300" height="400">
 
 Hello, My name is Hope, I'm currently studying to become a Software Developer via the school of code!
 
@@ -12,7 +12,7 @@ Code First Girls courses completed:
 📖Special Educational Needs, Disabilities and Inclusion BA From The University of Northampton.
 📖Childcare and Education Diploma (Level 3)
 
-<img src= "https://github.com/HopeIvy12/HopeIvy12/blob/8876025284c62ff94a1a0f820677ba826e3a6258/Untitled%20(1).png" width="1200" height="300">
+<img src= "https://github.com/HopeIvy12/HopeIvy12/blob/8876025284c62ff94a1a0f820677ba826e3a6258/Untitled%20(1).png" width="1200" height="100">
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
